@@ -280,7 +280,7 @@ class HomeComponent {
                 nameProject: 'FirstCode',
                 title: 'FirstCode - Traductor inteligente',
                 description: 'Traductor de código inteligente con la combinación de un lenguaje propio llamado Upwind que tiene ' +
-                    'la capacidad de poder ser traducido a lenagujes como Java, C++ o inclusive al lenguaje español.',
+                    'la capacidad de poder ser traducido a lenguajes como Java, C++ o inclusive al lenguaje español.',
                 project: {
                     name: 'FirstCode - Traductor inteligente',
                     tags: ['Angular', 'CSS', 'TypeScript', 'POO'],
@@ -314,16 +314,16 @@ class HomeComponent {
             {
                 nameProject: 'FunLyrics',
                 title: 'FunLyrics - Crear historias o karaoke sincronizado',
-                description: 'Aplicación Web que permite desde una URL de un video de YouTube, sincornizar historias o letras de forma simple y mágnifica',
+                description: 'Aplicación Web que permite desde una URL de un video de YouTube, sincronizar historias o letras de forma simple y mágnifica',
                 project: {
                     name: 'FunLyrics - Crear historias o karaoke sincronizado',
                     tags: ['Angular', 'CSS', 'TypeScript'],
-                    descriptionProject: 'Aplicación web que se basa en la API' +
-                        'de YouTube y permite crear y sincronizar' +
-                        'letras estilo karaoke, con inserción' +
+                    descriptionProject: 'Aplicación web que se basa en la API ' +
+                        'de YouTube y permite crear y sincronizar ' +
+                        'letras estilo karaoke, con inserción ' +
                         'dinámica de contenido y actualización. Este proyecto esta en desarrollo, por lo que se ' +
                         'mostrará un concepto visual de la calidad de diseño y desarrollo.' +
-                        ' en tiempo real',
+                        '',
                     urlDemo: 'https://funlyrics.netlify.app/home',
                     urlVideo: 'https://funlyrics.netlify.app/watchfun',
                     srcImage: './assets/svg/FunLyrics_2.svg'
@@ -367,13 +367,13 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](8, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "Soy ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "span", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Daniel Matuz");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Daniel Matuz.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " Desarrollador ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, " Ingeniero ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](14, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, " Front End");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, " en software");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div");
@@ -877,7 +877,7 @@ class ProjectsComponent {
                 nameProject: 'FirstCode',
                 title: 'FirstCode - Traductor inteligente',
                 description: 'Traductor de código inteligente con la combinación de un lenguaje propio llamado Upwind que tiene ' +
-                    'la capacidad de poder ser traducido a lenagujes como Java, C++ o inclusive al lenguaje español.',
+                    'la capacidad de poder ser traducido a lenguajes como Java, C++ o inclusive al lenguaje español.',
                 project: {
                     name: 'FirstCode - Traductor inteligente',
                     tags: ['Angular', 'CSS', 'TypeScript', 'POO'],
@@ -911,15 +911,15 @@ class ProjectsComponent {
             {
                 nameProject: 'FunLyrics',
                 title: 'FunLyrics - Crear historias o karaoke sincronizado',
-                description: 'Aplicación Web que permite desde una URL de un video de YouTube, sincornizar historias o letras de forma simple y mágnifica',
+                description: 'Aplicación Web que permite desde una URL de un video de YouTube, sincronizar historias o letras de forma simple y mágnifica',
                 project: {
                     name: 'FunLyrics - Crear historias o karaoke sincronizado',
                     tags: ['Angular', 'CSS', 'TypeScript'],
-                    descriptionProject: 'Aplicación web que se basa en la API' +
-                        'de YouTube y permite crear y sincronizar' +
-                        'letras estilo karaoke, con inserción' +
-                        'dinámica de contenido y actualización' +
-                        ' en tiempo real',
+                    descriptionProject: 'Aplicación web que se basa en la API ' +
+                        'de YouTube y permite crear y sincronizar ' +
+                        'letras estilo karaoke, con inserción ' +
+                        'dinámica de contenido y actualización ' +
+                        '',
                     urlDemo: 'https://funlyrics.netlify.app/home',
                     urlVideo: 'https://funlyrics.netlify.app/watchfun',
                     srcImage: './assets/svg/FunLyrics_2.svg'
