@@ -1,0 +1,13 @@
+<svg id="Component_6_1" data-name="Component 6 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="631" viewBox="0 0 610 631">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5b73e3"/>
+      <stop offset="1" stop-color="#de49ef"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectangle_7" data-name="Rectangle 7" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+    <rect width="610" height="631" rx="27" stroke="none"/>
+    <rect x="0.5" y="0.5" width="609" height="630" rx="26.5" fill="none"/>
+  </g>
+  <text id="FunLyrics_:_" data-name="FunLyrics :)" transform="translate(95 170)" fill="#fff" font-size="90" font-family="AttenRoundNew-Bold, Atten Round New" font-weight="700"><tspan x="0" y="0">Fun</tspan><tspan y="0" font-family="AttenRoundNew-Regular, Atten Round New" font-weight="400">Lyrics :)</tspan></text>
+</svg>
